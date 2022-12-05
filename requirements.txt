@@ -3,3 +3,4 @@ pybase64
 st_clickable_images
 pandas
 streamlit_aggrid
+openpyxl
