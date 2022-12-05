@@ -1,0 +1,7 @@
+streamlit
+pybase64
+os
+base64
+st_clickable_images
+pandas
+st_aggrid
